@@ -2,6 +2,7 @@
 
 # Day Goal: Learn about function with outputs
 import os
+import art
  
 def clear():  # Cross-platform clear screen
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -30,7 +31,7 @@ new_calculation = True
 while new_calculation:
     clear()
     print("Welcome to the calculator!")
-    print("logo")
+    print(art.logo)
 
     num1 = float(input("Enter the first number: "))
     ans = 'prev'
@@ -54,4 +55,5 @@ while new_calculation:
 print("Exiting the calculator.")
         
 
-            
+# Alternatively instead of creating two loops (one for new calculation and another for the previous calculation), we could also just put the entire process inside a function
+# and then just call that function for a new calculation. Thereby avoiding the outer while loop.

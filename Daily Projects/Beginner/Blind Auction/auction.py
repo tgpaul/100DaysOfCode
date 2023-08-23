@@ -1,5 +1,5 @@
 # A simple program to create a blind auction.
-# The goal is to learn more about dictionaries
+# Day Goal: Learn more about dictionaries
 
 import os
  
