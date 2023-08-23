@@ -1,4 +1,5 @@
 # This is the solution given in the course. Much more simple and neat.
+# Goal: Work with lists and strings more
 
 #Step 5
 

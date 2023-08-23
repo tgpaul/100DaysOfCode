@@ -1,4 +1,5 @@
 # A simple hangman game (My code) Overworked things
+# Day Goal: Work with lists and strings more
 
 import random
 import re

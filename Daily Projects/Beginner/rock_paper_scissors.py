@@ -1,4 +1,5 @@
 # This is a simple rock-paper-scissor game. The game was actually supposed to take the input as 0,1 or 2, but I wanted a challenge... Soooooo it was as 'rock', 'paper' and 'scissor'.
+# Day Goal: Learn more about randomization and python lists
 
 import random
 
