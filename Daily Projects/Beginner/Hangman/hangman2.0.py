@@ -1,3 +1,6 @@
+# NOTE THIS IS MY CODE. hangman2.1 is the courses code.
+
+
 # A simple hangman game (My code) Overworked things
 # Day Goal: Work with lists and strings more
 

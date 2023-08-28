@@ -56,4 +56,4 @@ print("Exiting the calculator.")
         
 
 # Alternatively instead of creating two loops (one for new calculation and another for the previous calculation), we could also just put the entire process inside a function
-# and then just call that function for a new calculation. Thereby avoiding the outer while loop.
+# and then just call that function for a new calculation, i.e, using recursion. Thereby avoiding the outer while loop.

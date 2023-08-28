@@ -74,9 +74,9 @@ Some projects may look like they have multiple copies, however it's just that so
 
 #### 7. Hangman
 
-- **File:** [hangman2.0.py](Daily%20Projects/Beginner/hangman2.0.py)
-- **Description:** A simple hangman game. This project features my code and so most things have been made much harder than it actually needed to be. 🧍🏿‍♂️
-- **File:** [hangman2.1.py](Daily%20Projects/Beginner/hangman2.1/hangman2.1.py)
+- **File:** [hangman2.0.py](Daily%20Projects/Beginner/Hangman/hangman2.0.py)
+- **Description:** A simple hangman game. This project features my code and so most things have been made much harder than what they asked for. 🧍🏿‍♂️
+- **File:** [hangman2.1.py](Daily%20Projects/Beginner/Hangman/hangman2.1.py)
 - **Description:** A simple hangman game. This code is from the course itself and so is much simpler to understand, most probably. 🕺
 - **Daily Goal:** Work with lists and strings more
 
